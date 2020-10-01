@@ -1,7 +1,7 @@
-# CindyJS web site
+# CindyJS Website
 
 This repository contains the sources from which
-[the CindyJS web site](http://cindyjs.org/) is built.
+[the CindyJS Website](http://cindyjs.org/) is built.
 If there is something wrong with the content on that web site,
 feel free to
 [file an issue with this repository](https://github.com/CindyJS/website/issues),
@@ -24,3 +24,5 @@ In oder to set up the local web-server for the website run
 `npm start`
 
 Then you can access the website on [http://localhost:8163/](http://localhost:8163/)
+
+Thank You And Have A Nice Day!
